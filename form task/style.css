@@ -1,0 +1,60 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+body{
+  background-color: blueviolet;
+}
+#main-div
+{
+ width: 80%;
+ margin: auto;
+ margin-top: 10%;
+}
+.div1-st
+{
+ width: 49% ;
+ background-color: rgb(0, 185, 188);
+ padding: 20% 5%;
+ text-align: center;
+ display: inline-block;
+ vertical-align: top; 
+}
+paragraph2
+{
+  margin-left: 20px;
+}
+#form-st{
+  width: 49%;
+  background-color: white;
+  padding: 10% 5%;
+  padding-bottom: 0%;
+  text-align: center;
+   display: inline-block;
+   vertical-align:top  ; 
+}
+input , textarea
+{
+  margin-left: auto;
+  margin-right: auto;
+ display: block;
+ margin-bottom: 5%;
+ width: 80%;
+ height: 40px; ;
+ background-color: darkgray;
+ border: none;
+}
+textarea{
+  height: 80px;
+}
+button{
+  width: 140px;
+  color: white;
+  margin-bottom: 5px;
+ background-color: rgb(0, 185, 188);
+ border-radius: 40px;
+ border: none;
+ height: 40px;
+}
+
